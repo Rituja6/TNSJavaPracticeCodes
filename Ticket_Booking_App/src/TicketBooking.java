@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class TicketBooking {
 	private String stageEvent;
-	private String customer;
+	private String customer;  
 	private int noOfSeats;
 	
 	public TicketBooking() {
